@@ -16,8 +16,6 @@ The categories bring together a number of influences: the concept of “scholarl
 
 The initial partners that have committed to adopting the taxonomy are DARIAH’s Zotero-based bibliography, the DiRT (Digital Research Tools) directory, and centerNet’s DHCommons project directory. DARIAH-EU has also committed to using this taxonomy as a basis for their development of a more complex ontology of digital scholarly methods, ensuring the continued updating and existence of the work presented here. We are engaged in ongoing dialog with other ontology initiatives, including NeDiMAH’s work around scholarly methods. Our goal is to share at least high-level categories with NeDiMAH’s ontology, so that objects (projects, tools, articles, etc.) classified using our taxonomy can be automatically “mapped” to some level of the NeDiMAH ontology, and vice versa.
 
-By the way: TaDiRAH is usually pronounced "ta-DEE-ra" and is not an animal. However, DiRT and DARIAH are both partial anagrams of it.
-
 Coordinators
 ------------
 * Luise Borek, Darmstadt, Germany
@@ -25,3 +23,11 @@ Coordinators
 * Matthew Munson, GCDH, Germany
 * Jody Perkins, Oxford OH, USA
 * Christof Schöch, Würzburg, Germany
+
+Good to know
+------------
+
+If you have comments on the taxonomy, please use the issue tracker here on GitHub. You are welcome to fork and reuse the taxonomy in your project. 
+
+TaDiRAH is usually pronounced "ta-DEE-ra" and is not an animal. However, DiRT and DARIAH are both partial anagrams of it.
+
