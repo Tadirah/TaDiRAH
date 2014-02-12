@@ -26,3 +26,5 @@ Good to know
 If you have comments on the taxonomy, please use the issue tracker here on GitHub. You are welcome to fork and reuse the taxonomy in your project. 
 
 TaDiRAH is usually pronounced "ta-DEE-ra" and is not an animal. However, DiRT and DARIAH are both partial anagrams of it.
+
+In addition to the current human-readable version of the taxonomy, we are planning to publish machine-readable formats of it.
