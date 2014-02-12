@@ -1,5 +1,5 @@
-TaDiRAH - Taxonomy of Digital Research Activities in the Humanities
-===================================================================
+TaDiRAH - Taxonomy of Digital Research Activities in the Humanities (v. 0.5, 02/2014)
+=====================================================================================
 
 This taxonomy of digital research activities in the humanities has been developed for use by community-driven sites and projects that aim to structure information relevant to digital humanities and make it more easily discoverable. The taxonomy is expected to be particularly useful to endeavors aiming to collect information on digital humanities tools, methods, projects, or readings. 
 
