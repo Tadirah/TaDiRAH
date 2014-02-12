@@ -15,19 +15,3 @@ The taxonomy does not aim to cover all methods and procedures being used in the 
 The categories bring together a number of influences: the concept of “scholarly primitives” (Unsworth 2000), the idea of a multi-stage scholarly workflow or research lifecycle (e.g. JISC 2013), DARIAH research into modeling the research process (e.g. Benardou et al. 2010, Reiche et al. 2014) and more generally work on digital scholarly methods in the humanities (Siemens et al. 2004, Borgman 2010, Gasteiner et al 2012). Also, we have been building on the existing Methods Taxonomy of arts-humanities.net (see Anderson et al. 2010) and the existing list of Bamboo DiRT categories. Finally, we have been guided by the principle of separating research activities from research objects, and various experiences with managing earlier taxonomies. 
 
 The initial partners that have committed to adopting the taxonomy are DARIAH’s Zotero-based bibliography, the DiRT (Digital Research Tools) directory, and centerNet’s DHCommons project directory. DARIAH-EU has also committed to using this taxonomy as a basis for their development of a more complex ontology of digital scholarly methods, ensuring the continued updating and existence of the work presented here. We are engaged in ongoing dialog with other ontology initiatives, including NeDiMAH’s work around scholarly methods. Our goal is to share at least high-level categories with NeDiMAH’s ontology, so that objects (projects, tools, articles, etc.) classified using our taxonomy can be automatically “mapped” to some level of the NeDiMAH ontology, and vice versa.
-
-Coordinators
-------------
-* Luise Borek, Darmstadt, Germany
-* Quinn Dombrowski, Berkeley, CA, USA
-* Matthew Munson, GCDH, Germany
-* Jody Perkins, Oxford OH, USA
-* Christof Schöch, Würzburg, Germany
-
-Good to know
-------------
-
-If you have comments on the taxonomy, please use the issue tracker here on GitHub. You are welcome to fork and reuse the taxonomy in your project. 
-
-TaDiRAH is usually pronounced "ta-DEE-ra" and is not an animal. However, DiRT and DARIAH are both partial anagrams of it.
-
