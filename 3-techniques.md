@@ -1,4 +1,4 @@
-Digital Humanities Research Techniques
+Research Techniques
 ======================================
 
 Technique > related Goal-Method
